@@ -39,3 +39,5 @@ An AI-powered chatbot that helps customers understand the return and refund proc
 - "I requested a return yesterday, what happens next?"
 - "Explain why my refund is taking 5-7 days."
 - "Can you process a refund for my last order?" (Watch the bot politely decline!)
+
+Nice
